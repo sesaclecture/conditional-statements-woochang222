@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-""" test """
+#""" test """
 
 def test_submission():
-    """ test """
+    #""" test """
     assert True
